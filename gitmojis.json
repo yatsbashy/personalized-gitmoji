@@ -4,8 +4,15 @@
       "emoji": "🎨",
       "entity": "&#x1f3a8;",
       "code": ":art:",
-      "description": "Improve structure / format of the code.",
+      "description": "Add or update the UI and style files.",
       "name": "art"
+    },
+    {
+      "emoji": "📐",
+      "entity": "&#x1f4d0;",
+      "code": ":triangular_ruler:",
+      "description": "Improve structure / format of the code.",
+      "name": "triangular-ruler"
     },
     {
       "emoji": "⚡️",
@@ -46,7 +53,7 @@
       "emoji": "📝",
       "entity": "&#x1f4dd;",
       "code": ":memo:",
-      "description": "Add or update documentation.",
+      "description": "Add or update documentation / comments.",
       "name": "memo"
     },
     {
@@ -55,13 +62,6 @@
       "code": ":rocket:",
       "description": "Deploy stuff.",
       "name": "rocket"
-    },
-    {
-      "emoji": "💄",
-      "entity": "&#ff99cc;",
-      "code": ":lipstick:",
-      "description": "Add or update the UI and style files.",
-      "name": "lipstick"
     },
     {
       "emoji": "🎉",
