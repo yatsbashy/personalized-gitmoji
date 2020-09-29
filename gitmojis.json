@@ -85,32 +85,11 @@
       "name": "lock"
     },
     {
-      "emoji": "🔖",
-      "entity": "&#x1f516;",
-      "code": ":bookmark:",
-      "description": "Release / Version tags.",
-      "name": "bookmark"
-    },
-    {
-      "emoji": "🚨",
-      "entity": "&#x1f6a8;",
-      "code": ":rotating_light:",
-      "description": "Remove linter warnings.",
-      "name": "rotating-light"
-    },
-    {
       "emoji": "🚧",
       "entity": "&#x1f6a7;",
       "code": ":construction:",
       "description": "Work in progress.",
       "name": "construction"
-    },
-    {
-      "emoji": "💚",
-      "entity": "&#x1f49a;",
-      "code": ":green_heart:",
-      "description": "Fix CI Build.",
-      "name": "green-heart"
     },
     {
       "emoji": "⬇️",
@@ -274,46 +253,11 @@
       "name": "bulb"
     },
     {
-      "emoji": "🍻",
-      "entity": "&#x1f37b;",
-      "code": ":beers:",
-      "description": "Write code drunkenly.",
-      "name": "beers"
-    },
-    {
-      "emoji": "💬",
-      "entity": "&#128172;",
-      "code": ":speech_balloon:",
-      "description": "Add or update text and literals.",
-      "name": "speech-balloon"
-    },
-    {
       "emoji": "🗃",
       "entity": "&#128451;",
       "code": ":card_file_box:",
       "description": "Perform database related changes.",
       "name": "card-file-box"
-    },
-    {
-      "emoji": "🔊",
-      "entity": "&#128266;",
-      "code": ":loud_sound:",
-      "description": "Add or update logs.",
-      "name": "loud-sound"
-    },
-    {
-      "emoji": "🔇",
-      "entity": "&#128263;",
-      "code": ":mute:",
-      "description": "Remove logs.",
-      "name": "mute"
-    },
-    {
-      "emoji": "👥",
-      "entity": "&#128101;",
-      "code": ":busts_in_silhouette:",
-      "description": "Add or update contributor(s).",
-      "name": "busts-in-silhouette"
     },
     {
       "emoji": "🚸",
@@ -344,32 +288,11 @@
       "name": "clown-face"
     },
     {
-      "emoji": "🥚",
-      "entity": "&#129370;",
-      "code": ":egg:",
-      "description": "Add or update an easter egg.",
-      "name": "egg"
-    },
-    {
-      "emoji": "🙈",
-      "entity": "&#8bdfe7;",
-      "code": ":see_no_evil:",
-      "description": "Add or update a .gitignore file.",
-      "name": "see-no-evil"
-    },
-    {
       "emoji": "📸",
       "entity": "&#128248;",
       "code": ":camera_flash:",
       "description": "Add or update snapshots.",
       "name": "camera-flash"
-    },
-    {
-      "emoji": "⚗",
-      "entity": "&#128248;",
-      "code": ":alembic:",
-      "description": "Perform experiments.",
-      "name": "alembic"
     },
     {
       "emoji": "🔍",
@@ -400,25 +323,11 @@
       "name": "triangular-flag-on-post"
     },
     {
-      "emoji": "🥅",
-      "entity": "&#x1F945;",
-      "code": ":goal_net:",
-      "description": "Catch errors.",
-      "name": "goal-net"
-    },
-    {
       "emoji": "💫",
       "entity": "&#x1f4ab;",
       "code": ":dizzy:",
       "description": "Add or update animations and transitions.",
       "name": "animation"
-    },
-    {
-      "emoji": "🗑",
-      "entity": "&#x1F5D1;",
-      "code": ":wastebasket:",
-      "description": "Deprecate code that needs to be cleaned up.",
-      "name": "wastebasket"
     }
   ]
 }
